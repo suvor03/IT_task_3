@@ -1,0 +1,97 @@
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\bin\Debug\net8.0-windows\task3.exe
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\bin\Debug\net8.0-windows\task3.deps.json
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\bin\Debug\net8.0-windows\task3.runtimeconfig.json
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\bin\Debug\net8.0-windows\task3.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\bin\Debug\net8.0-windows\task3.pdb
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.csproj.AssemblyReference.cache
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.cache
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.lref
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.g.resources
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.AssemblyInfoInputs.cache
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.AssemblyInfo.cs
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.csproj.CoreCompileInputs.cache
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.csproj.Up2Date
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\refint\task3.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.pdb
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\task3.genruntimeconfig.cache
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\obj\Debug\net8.0-windows\ref\task3.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\bin\Debug\net8.0-windows\AnimalLibrary.dll
+C:\Users\suvor\Downloads\Task-3_C_sharp-master\Task-3_C_sharp-master\task3\bin\Debug\net8.0-windows\AnimalLibrary.pdb
+D:\ВГУ 3 курс\.net\task_3_animals\task3\bin\Debug\net8.0-windows\task3.exe
+D:\ВГУ 3 курс\.net\task_3_animals\task3\bin\Debug\net8.0-windows\task3.deps.json
+D:\ВГУ 3 курс\.net\task_3_animals\task3\bin\Debug\net8.0-windows\task3.runtimeconfig.json
+D:\ВГУ 3 курс\.net\task_3_animals\task3\bin\Debug\net8.0-windows\task3.dll
+D:\ВГУ 3 курс\.net\task_3_animals\task3\bin\Debug\net8.0-windows\task3.pdb
+D:\ВГУ 3 курс\.net\task_3_animals\task3\bin\Debug\net8.0-windows\AnimalLibrary.dll
+D:\ВГУ 3 курс\.net\task_3_animals\task3\bin\Debug\net8.0-windows\AnimalLibrary.pdb
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.csproj.AssemblyReference.cache
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\App.g.cs
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.cache
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.lref
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.g.resources
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.AssemblyInfoInputs.cache
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.AssemblyInfo.cs
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.csproj.CoreCompileInputs.cache
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.csproj.Up2Date
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.dll
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\refint\task3.dll
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.pdb
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\task3.genruntimeconfig.cache
+D:\ВГУ 3 курс\.net\task_3_animals\task3\obj\Debug\net8.0-windows\ref\task3.dll
+D:\ВГУ 3 курс\.net\task_3_chess\task3\bin\Debug\net8.0-windows\task3.exe
+D:\ВГУ 3 курс\.net\task_3_chess\task3\bin\Debug\net8.0-windows\task3.deps.json
+D:\ВГУ 3 курс\.net\task_3_chess\task3\bin\Debug\net8.0-windows\task3.runtimeconfig.json
+D:\ВГУ 3 курс\.net\task_3_chess\task3\bin\Debug\net8.0-windows\task3.dll
+D:\ВГУ 3 курс\.net\task_3_chess\task3\bin\Debug\net8.0-windows\task3.pdb
+D:\ВГУ 3 курс\.net\task_3_chess\task3\bin\Debug\net8.0-windows\ChessLibrary.dll
+D:\ВГУ 3 курс\.net\task_3_chess\task3\bin\Debug\net8.0-windows\ChessLibrary.pdb
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.csproj.AssemblyReference.cache
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\App.g.cs
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.cache
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.lref
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.g.resources
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.AssemblyInfoInputs.cache
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.AssemblyInfo.cs
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.csproj.CoreCompileInputs.cache
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.csproj.Up2Date
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.dll
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\refint\task3.dll
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.pdb
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\task3.genruntimeconfig.cache
+D:\ВГУ 3 курс\.net\task_3_chess\task3\obj\Debug\net8.0-windows\ref\task3.dll
+C:\Users\suvor\Downloads\IT_task_3\task3\bin\Debug\net8.0-windows\task3.exe
+C:\Users\suvor\Downloads\IT_task_3\task3\bin\Debug\net8.0-windows\task3.deps.json
+C:\Users\suvor\Downloads\IT_task_3\task3\bin\Debug\net8.0-windows\task3.runtimeconfig.json
+C:\Users\suvor\Downloads\IT_task_3\task3\bin\Debug\net8.0-windows\task3.dll
+C:\Users\suvor\Downloads\IT_task_3\task3\bin\Debug\net8.0-windows\task3.pdb
+C:\Users\suvor\Downloads\IT_task_3\task3\bin\Debug\net8.0-windows\ChessLibrary.dll
+C:\Users\suvor\Downloads\IT_task_3\task3\bin\Debug\net8.0-windows\ChessLibrary.pdb
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.csproj.AssemblyReference.cache
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.cache
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3_MarkupCompile.lref
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.g.resources
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.AssemblyInfoInputs.cache
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.AssemblyInfo.cs
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.csproj.CoreCompileInputs.cache
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.sourcelink.json
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.csproj.Up2Date
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.dll
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\refint\task3.dll
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.pdb
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\task3.genruntimeconfig.cache
+C:\Users\suvor\Downloads\IT_task_3\task3\obj\Debug\net8.0-windows\ref\task3.dll

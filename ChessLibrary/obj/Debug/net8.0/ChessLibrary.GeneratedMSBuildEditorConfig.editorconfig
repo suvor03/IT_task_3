@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FlyObjectLibrary
-build_property.ProjectDir = D:\ВГУ 3 курс\.net\task_3_chess\ChessLibrary\
+build_property.ProjectDir = C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

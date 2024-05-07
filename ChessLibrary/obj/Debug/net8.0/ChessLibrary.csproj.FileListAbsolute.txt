@@ -9,3 +9,15 @@ D:\ВГУ 3 курс\.net\task_3_chess\ChessLibrary\obj\Debug\net8.0\ChessLibrar
 D:\ВГУ 3 курс\.net\task_3_chess\ChessLibrary\obj\Debug\net8.0\refint\ChessLibrary.dll
 D:\ВГУ 3 курс\.net\task_3_chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.pdb
 D:\ВГУ 3 курс\.net\task_3_chess\ChessLibrary\obj\Debug\net8.0\ref\ChessLibrary.dll
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\bin\Debug\net8.0\ChessLibrary.deps.json
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\bin\Debug\net8.0\ChessLibrary.dll
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\bin\Debug\net8.0\ChessLibrary.pdb
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ChessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ChessLibrary.AssemblyInfoInputs.cache
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ChessLibrary.AssemblyInfo.cs
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ChessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ChessLibrary.sourcelink.json
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ChessLibrary.dll
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\refint\ChessLibrary.dll
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ChessLibrary.pdb
+C:\Users\suvor\Downloads\IT_task_3\ChessLibrary\obj\Debug\net8.0\ref\ChessLibrary.dll

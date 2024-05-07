@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ВГУ 3 курс\\.net\\task_3_chess\\ChessLibrary\\ChessLibrary.csproj": {}
+    "C:\\Users\\suvor\\Downloads\\IT_task_3\\ChessLibrary\\ChessLibrary.csproj": {}
   },
   "projects": {
-    "D:\\ВГУ 3 курс\\.net\\task_3_chess\\ChessLibrary\\ChessLibrary.csproj": {
+    "C:\\Users\\suvor\\Downloads\\IT_task_3\\ChessLibrary\\ChessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ВГУ 3 курс\\.net\\task_3_chess\\ChessLibrary\\ChessLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\suvor\\Downloads\\IT_task_3\\ChessLibrary\\ChessLibrary.csproj",
         "projectName": "ChessLibrary",
-        "projectPath": "D:\\ВГУ 3 курс\\.net\\task_3_chess\\ChessLibrary\\ChessLibrary.csproj",
+        "projectPath": "C:\\Users\\suvor\\Downloads\\IT_task_3\\ChessLibrary\\ChessLibrary.csproj",
         "packagesPath": "C:\\Users\\suvor\\.nuget\\packages\\",
-        "outputPath": "D:\\ВГУ 3 курс\\.net\\task_3_chess\\ChessLibrary\\obj\\",
+        "outputPath": "C:\\Users\\suvor\\Downloads\\IT_task_3\\ChessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
